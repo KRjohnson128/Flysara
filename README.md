@@ -22,7 +22,7 @@ Follow these steps to run the project locally:
 
 1.Clone the repository:
 
-   git clone http://github.com/KRjohn.
+   git clone http://github.com/KRjohnson128/Flysara.git
 
 2.Navigate to the project directory:
 
