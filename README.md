@@ -15,14 +15,14 @@
 - **SCSS**: For styling and responsive design.
 - **Axios**: For API calls to fetch data  (if applicable).
   
----
 
-## Installation
-Follow these steps to run the project locally:
 
-1.Clone the repository:
-
-   git clone http://github.com/KRjohnson128/Flysara.git
+## Setup
+  Follow these steps to run the project locally:
+  
+  1.Clone the repository:
+    ```bash
+     git clone http://github.com/KRjohnson128/Flysara.git
 
 2.Navigate to the project directory:
 
@@ -40,13 +40,12 @@ Follow these steps to run the project locally:
 
 
 🚀 Live Demo
+    FlySara Live Demo
 
-  FlySara Live Demo
-
-
- Contributing
-    Contributuons are welcome! please fork the repository and submit a pull request for 
-    review.
+  Contributing
+ 
+  Contributuons are welcome! please fork the repository and submit a pull request for 
+  review.
 
     
     
