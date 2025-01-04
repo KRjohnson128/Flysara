@@ -21,7 +21,10 @@
   
   1.Clone the repository:
     
- git clone http://github.com/KRjohnson128/Flysara.git
+ git clone   [[!Copy-paste link] http://github.com/KRjohnson128/Flysara.git
+
+[![Copy-paste icon](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Copy_icon.svg/1024px-Copy_icon.svg.png)](http://www.example.com)
+ 
 
 2.Navigate to the project directory:
 
